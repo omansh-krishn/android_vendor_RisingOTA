@@ -69,4 +69,4 @@ echo '{
         "kernel": "'$kernel'"
     }
   ]
-}' >> $device.json
+}'
